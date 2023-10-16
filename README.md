@@ -25,6 +25,14 @@ graph TD
     F --> G(Training Dataset)
     F --> K(Testing Dataset)
 
+    G --> M(Modeling: LGBM, Catboost )
+    M --> N(Trained Models)
+
+    N --> O(Inference)
+    K --> O
+
+    O --> P[Predictions]
+
 ```
 
 
