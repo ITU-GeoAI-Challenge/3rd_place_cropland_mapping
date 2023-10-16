@@ -6,9 +6,6 @@ Timely and accurate crop maps are essential for various applications in agricult
 
 The goal of this challenge was to develop accurate and cost-effective classification models to improve the accuracy and robustness of land cover classification with satellite images.
 
-## Software & Hardware Requirements
-Google Colab was used for preprocessing, training, and inferencing stages. 
-
 ## Workflow Solution
 
 ```mermaid
@@ -35,6 +32,8 @@ graph TD
 
 ```
 
+## Software & Hardware Requirements
+Google Colab was used for preprocessing, training, and inferencing stages. 
 
 ## Get Started
 The solution saved in the notebooks folder with the following expected running time: 
