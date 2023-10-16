@@ -16,6 +16,9 @@ graph TD
     A[Google Earth Engine] --> B(Sentinel-1)
     A --> C(Sentinel-2)
     A --> D(SMAP Level-4)
+
+    B --> E(Vegetation Indices)
+    C --> E
 ```
 
 
