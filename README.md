@@ -23,8 +23,8 @@ graph TD
     E --> F(Training Dataset)
     E --> G(Testing Dataset)
 
-    D --> G(Testing Dataset)
-    D --> f(Training Dataset)
+    D --> G
+    D --> F
 
 ```
 
