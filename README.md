@@ -9,3 +9,20 @@ The goal of this challenge was to develop accurate and cost-effective classifica
 ## Software & Hardware Requirements
 Google Colab was used for preprocessing, training, and inferencing. 
 
+## Workflow Solution
+
+```mermaid
+graph TD
+    A[Google Earth Engine] -- Data --> B(Sentinel-1)
+    A -- Data --> C(Sentinel-2)
+    A -- Data --> D(SMAP Level-4)
+```
+
+
+## Get Started
+You can the solution in work fIn the notebooks folder
+
+|Notebook|Running time|
+|-----------|--------|
+|Notebook 1 | 5 minutes|
+|Notebook 2 | 3.5 houres|
