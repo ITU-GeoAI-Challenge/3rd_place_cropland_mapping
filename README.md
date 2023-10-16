@@ -37,9 +37,15 @@ graph TD
 
 
 ## Get Started
-You can the solution in work fIn the notebooks folder
+The solution saved in the notebooks folder with the following expected running time: 
 
 |Notebook|Running time|
 |-----------|--------|
 |Notebook 1 | 5 minutes|
 |Notebook 2 | 3.5 houres|
+
+### Notebook 1
+Split the datasets into 3 regions as following: Sudan, Iran, and Afghanistan.
+
+### Notebook 2
+Extract data from GEE, feature engineering, modeling, and inference.
