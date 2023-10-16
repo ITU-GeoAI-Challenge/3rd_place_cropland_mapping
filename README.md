@@ -19,8 +19,9 @@ graph TD
 
     B --> E(Vegetation Indices)
     C --> E
-
+    
     E --> F(Dataset)
+    D --> F
     F --> G(Training Dataset)
     F --> K(Testing Dataset)
 
