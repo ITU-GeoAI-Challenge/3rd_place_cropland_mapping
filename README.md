@@ -13,9 +13,9 @@ Google Colab was used for preprocessing, training, and inferencing.
 
 ```mermaid
 graph TD
-    A[Google Earth Engine] ----> B(Sentinel-1)
-    A ----> C(Sentinel-2)
-    A ----> D(SMAP Level-4)
+    A[Google Earth Engine] --> B(Sentinel-1)
+    A --> C(Sentinel-2)
+    A --> D(SMAP Level-4)
 ```
 
 
